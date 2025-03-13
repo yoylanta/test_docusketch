@@ -1,4 +1,4 @@
-# test_docusketch
+# CV model for corner detection performance analysis
 ## Install: 
 ### In order to run this code, you should use these commands first:
 1. Install virtual environment: python3 -m venv .venv
